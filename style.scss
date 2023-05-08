@@ -161,7 +161,6 @@ p{
 
     a:hover{
         color: hsl(35, 77%, 62%);
-        
     }
 }
 
@@ -208,7 +207,7 @@ p{
     }
 }
 
-@media all and (max-width: 500px) {
+@media all and (max-width: 600px) {
     section{
         margin-top: 9rem;
         width:25rem;
@@ -216,7 +215,7 @@ p{
 
     header{
         margin-top: 1rem;
-        margin-left: -4rem;
+        margin-left: -6rem;
 
         #logo{
             display: block;
@@ -238,7 +237,7 @@ p{
     .menu{
         display: none;
         margin-top: -6rem;
-        margin-left: 12rem;
+        margin-left: 18rem;
         position: absolute;
         width: 20rem;
         height: 100vh;
